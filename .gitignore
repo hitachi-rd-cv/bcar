@@ -1,0 +1,5 @@
+*.pyc
+data/images/*
+data/lists/*
+data/original/*
+!.gitkeep
